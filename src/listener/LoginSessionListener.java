@@ -7,6 +7,7 @@ import javax.servlet.http.HttpSessionAttributeListener;
 import javax.servlet.http.HttpSessionBindingEvent;
 
 /**
+ * 用户登录监听器
  * @author DUSTY
  */
 public class LoginSessionListener implements HttpSessionAttributeListener {
