@@ -20,7 +20,7 @@ public class LoginCache {
 
     }
 
-    private static LoginCache getInstance() {
+    public static LoginCache getInstance() {
         return instance;
     }
 
